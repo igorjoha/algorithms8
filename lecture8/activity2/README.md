@@ -5,10 +5,14 @@
 > Refer to the following links while discussing the answer.
 
 - What is the difference between `array` and `std::array`
+dynamic array
   https://stackoverflow.com/questions/30263303/stdarray-vs-array-performance
 - What is the difference between `std::array` and `std::vector`
+vector can change capacity
   https://www.softwaretestinghelp.com/arrays-in-stl/
 - What is the difference between `std::list` and `std::vector`
+sequential containers, so u can easily insert values in the middle
+
   https://www.softwaretestinghelp.com/lists-in-stl/
 
 ## Task 2
